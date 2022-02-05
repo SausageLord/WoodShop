@@ -22,22 +22,19 @@
 }
 .welcome{
     font-size: 40px;
-    margin:-8px;
-    
+    margin:-8px;    
 }
 
 .vk{
     width: 70px;
     margin-left: -55%;
-    margin-top: -70px;
-    
+    margin-top: -70px;    
 }
 
 .inst{
     width: 50px;
     margin-left: -130px;
     margin-top: -52px;
-
 }
 .menu{
     font-family: 'Lora', serif;
